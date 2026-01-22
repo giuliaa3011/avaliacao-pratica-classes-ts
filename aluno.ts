@@ -15,5 +15,5 @@ class Aluno {
 }
 
 // Para visualização no console
-const aluno1 = new Aluno("Giulia", 20, "Frontend");
+const aluno1 = new Aluno("Joana", 20, "Frontend");
 console.log(aluno1.apresentar());

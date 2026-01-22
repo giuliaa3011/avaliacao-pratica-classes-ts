@@ -1,15 +1,19 @@
 # Avaliação Prática - Classes POO com TypeScript
-Repository created for practical evaluation of BFD Softexpe - FrontEnd Course.
 
-> Requisitos:
+Repository created for practical evaluation of BFD Softexpe - FrontEnd Course. This repository contains the implementation of a TypeScript class for practicing Object-Oriented Programming (OOP) concepts.
 
-Prática de Código (TypeScript e POO)
+Repositório criado para avaliação prática do curso BFD Softexpe - FrontEnd. Este repositório contém a implementação de uma classe em TypeScript para praticar conceitos de Programação Orientada a Objetos (POO).
 
-1. Crie um arquivo aluno.ts.
-2. Implemente uma classe chamada Aluno.
-3. A classe deve ter os atributos: nome (string), idade (number) e curso (string).
-4. Crie um método dentro da classe chamado apresentar(), que retorna uma frase dizendo o nome do aluno e o curso.
-5. Suba esse código no seu GitHub.
-6. Envie o link do repositório no campo abaixo.
+## 🚀 Tecnologias
+- TypeScript
+- Node.js
 
+## 📋 Requisitos do enunciado
+1. Criar um arquivo 'aluno.ts'
+2. Implementar uma classe 'Aluno'.
+3. Atributos: 'nome', 'idade' e 'curso'.
+4. Método 'apresentar()' que retorna uma frase com os dados do aluno.
 
+## ⚙️ Visualização pelo console
+
+![Resultado do Código](./img/print-terminal.png)
