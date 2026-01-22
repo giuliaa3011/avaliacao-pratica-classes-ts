@@ -13,3 +13,7 @@ class Aluno {
         return `Olá, o meu nome é ${this.nome} e eu estou o cursando ${this.curso}.`;
     }
 }
+
+// Para visualização no console
+const aluno1 = new Aluno("Giulia", 20, "Frontend");
+console.log(aluno1.apresentar());
